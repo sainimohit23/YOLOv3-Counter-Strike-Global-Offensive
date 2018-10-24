@@ -35,7 +35,7 @@ This program is trained to detect and classify `terrorists` and `counter-terrori
 
 
 To know more about issues and the YOLOv3 implementation that I used, refer to [qqwweee/keras-yolo3](https://github.com/qqwweee/keras-yolo3).
-To learn the implementation of annotations tool watch this tutorial  [mark-jay-yolo](https://www.youtube.com/watch?v=PyjBd7IDYZs&list=PLX-LrBk6h3wSGvuTnxB2Kj358XfctL4BM).
+To learn the implementation of annotations tool, watch this tutorial  [mark-jay-yolo](https://www.youtube.com/watch?v=PyjBd7IDYZs&list=PLX-LrBk6h3wSGvuTnxB2Kj358XfctL4BM).
 
 
 ---
