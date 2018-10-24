@@ -46,4 +46,4 @@ To learn the implementation of annotations tool, watch this tutorial  [mark-jay-
 
 
 
-Above sample struggles to classify terrorists properly. Since it is obtained using tiny_yolo model, something like this was expected. I don't have a gpu to train full model.
+As seen in above sample, model struggles to classify terrorists properly. Since it is obtained using tiny_yolo model, something like this was expected. I don't have a gpu to train full model.
