@@ -9,10 +9,8 @@ This program is trained to detect and classify `terrorists` and `counter-terrori
 * Pillow
 * Numpy
 * Matplotlib
-* Time
 * colorsys
 * OpenCV
-* os
 
 ### Quick Start
 1. Run `convert.py` to convert darknet weights to keras weights. Download darknet model from [YOLO website](http://pjreddie.com/darknet/yolo/).
